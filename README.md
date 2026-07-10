@@ -1,4 +1,4 @@
-# S3 Multipart Upload Example
+# S3 Multipart Upload
 
 This project demonstrates how to upload large files to Amazon S3 using the multipart upload API.
 
