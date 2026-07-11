@@ -60,3 +60,12 @@ Part{
 }
 
 ```
+
+# Run The server
+
+clone the repo
+```
+git clone https://github.com/nico-phil/s3-multipart-upload.git
+cd server
+go run main.go
+```
